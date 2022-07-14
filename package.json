@@ -1,7 +1,10 @@
 {
-  "name": "prunedge-components",
+  "name": "@Prunedge-Dev-Team/react-component-library",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Prunedge-Dev-Team"
+  },
   "scripts": {
     "rollup": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
